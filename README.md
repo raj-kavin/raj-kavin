@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **ragavkavinraj@gamil.com**
 
-- 📄 Know about my experiences [Aspiring full-stack developer with a passion for crafting seamless andinnovative web solutions. Eager to contribute my skills in front-end and back-end development, along with a keen eye for user experience, to driveimpactful projects. Committed to staying abreast of emerging technologies, Iam determined to create dynamic and user-centric applications that push theboundaries of digital excellence.](Aspiring full-stack developer with a passion for crafting seamless andinnovative web solutions. Eager to contribute my skills in front-end and back-end development, along with a keen eye for user experience, to driveimpactful projects. Committed to staying abreast of emerging technologies, Iam determined to create dynamic and user-centric applications that push theboundaries of digital excellence.)
+- 📄 Know about my experiences [Aspiring full-stack developer with a passion for crafting seamless andinnovative web solutions. Eager to contribute my skills in front-end and back-end development, along with a keen eye for user experience, to driveimpactful projects. Committed to staying abreast of emerging technologies, Iam determined to create dynamic and user-centric applications that push theboundaries of digital excellence.]
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
